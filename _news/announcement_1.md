@@ -9,7 +9,7 @@ title: New LXD Remote with Custom Images
 Self-hosting and sharing our own infrastructure becomes increasingly important as governments and corporations attempt to control, monitor, and commodify cyberspace. To this end, I host a public image server for the [LXD hypervisor](https://documentation.ubuntu.com/lxd/en/latest/). I hope the curated images available here enable others to build and host their own services.
 
 ```
-lxc remote add nabasny nabasny.com:8443
+lxc remote add nabasny nabasny.com:8443 --public
 ```
 
 The following images are currently available:
