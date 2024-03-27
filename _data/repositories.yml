@@ -2,6 +2,7 @@ github_users:
   - slapcat
 
 github_repos:
+  - slapcat/bureau
   - slapcat/out_discord
   - slapcat/triage-helper
   - slapcat/postfixadmin-user-registration
