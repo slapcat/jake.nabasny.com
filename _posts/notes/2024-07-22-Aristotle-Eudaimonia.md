@@ -1,10 +1,11 @@
 ---
 layout: post
-tags: philosophy ethics aristotle books
-title: Eudaimen Ethics
+tags: philosophy ethics aristotle
+categories: notes
+title: Eudaimen Ethics - Aristotle
 subtitle: 
 date: 2024-07-22 00:00:00
-author: Aristotle
+author: Jake Nabasny
 ---
 
 ![cover](https://books.google.co.uk/books/publisher/content?id=9T2OAwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0_ZxFDhO8i7Y2pgIhKLdjpD5Uozw)

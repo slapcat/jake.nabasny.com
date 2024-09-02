@@ -1,10 +1,11 @@
 ---
 layout: post
-tags: philosophy ethics books spinoza
-title: Ethics
+tags: philosophy ethics spinoza
+categories: notes
+title: Ethics - Benedict de Spinoza
 subtitle: 
 date: 2024-07-22 00:00:00
-author: Benedict de Spinoza
+author: Jake Nabasny
 ---
 
 ![cover](http://books.google.com/books/content?id=YUjuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
