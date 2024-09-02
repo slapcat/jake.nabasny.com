@@ -1,2 +1,488 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://jake.nabasny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jake.nabasny.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-03-27T18:17:01+00:00</updated><id>https://jake.nabasny.com/feed.xml</id><title type="html">blank</title><subtitle>Personal website of Jake Nabasny, PhD.
-</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://jake.nabasny.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jake.nabasny.com/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-07-22T23:16:36+00:00</updated><id>https://jake.nabasny.com/feed.xml</id><title type="html">blank</title><subtitle>Personal website of Jake Nabasny, PhD.
+</subtitle><entry><title type="html">Eudaimen Ethics</title><link href="https://jake.nabasny.com/memo/2024/Aristotle-Eudaimonia/" rel="alternate" type="text/html" title="Eudaimen Ethics" /><published>2024-07-22T00:00:00+00:00</published><updated>2024-07-22T00:00:00+00:00</updated><id>https://jake.nabasny.com/memo/2024/Aristotle-Eudaimonia</id><content type="html" xml:base="https://jake.nabasny.com/memo/2024/Aristotle-Eudaimonia/"><![CDATA[<p><img src="https://books.google.co.uk/books/publisher/content?id=9T2OAwAAQBAJ&amp;pg=PP1&amp;img=1&amp;zoom=3&amp;hl=en&amp;bul=1&amp;sig=ACfU3U0_ZxFDhO8i7Y2pgIhKLdjpD5Uozw" alt="cover" /></p>
+
+<h1 id="eudaimen-ethics">Eudaimen Ethics</h1>
+
+<p>by Aristotle</p>
+
+<h2 id="publishers-summary">Publisher’s Summary</h2>
+<!-- No more than a couple paragraphs summarizing this BOOK -->
+
+<blockquote>
+  <p>Aristotle’s moral philosophy is a pillar of Western ethical thought. It bequeathed to the world an emphasis on virtues and vices, happiness as well-being or a life well lived, and rationally motivated action as a mean between extremes. Its influence was felt well beyond antiquity into the Middle Ages, particularly through the writings of St. Thomas Aquinas. In the past century, with the rise of virtue theory in moral philosophy, Aristotle’s ethics has been revived as a source of insight and interest. While most attention has traditionally focused on Aristotle’s famous Nicomachean Ethics, there are several other works written by or attributed to Aristotle that illuminate his ethics: the Eudemian Ethics, the Magna Moralia, and Virtues and Vices.</p>
+</blockquote>
+
+<h2 id="notes">Notes</h2>
+<!-- The main content of my thoughts really -->
+
+<h4 id="introduction">Introduction</h4>
+<p>11-2 Aristotle not concerned with morality in the modern sense</p>
+<h4 id="text">Text</h4>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>33 happiness is most noble, best of all things, and pleasantest
+- possible paths to happiness: nature, learning (knowledge), training, divine influence, fortune
+34 every person has an overarching telos
+35 mix of experience and reason is necessary to find good life
+41 happiness = "best of what are matters of human action"
+42 ANTI-PLATO: Idea of good cant direct action
+44 Idea of good not "useful"
+45 virtue = best state/task of object, person, etc.
+- ex. garment
+46 task/ergon = action, project, deed
+- task &gt; state (hexis): so its more about what you do than who you are
+- ex. cobbler's virtue
+47 def. happiness
+- happ. is activity/use
+49 excess vs. deficiency
+- ex. food
+51 golden mean
+53 virute spectrums are abstract states corresponding to a variety of concrete manifestations
+54 states/capacities are related to emotions, which are distinguished by pleasure and pain
+57 only humans can act
+58 virtue/vice only apply to voluntary acts
+59 3 types of desire: will, passion, appetite
+61 voluntary action is deliberative
+- desire and reason both play a part in human action
+62-3 pleasure and pain exist in both vice/virtue
+65 def. of voluntary: all a man does without being ignorant, on his own initiative, and having the power not to do so (last is most interesting, and prob why A analyzes the problem of incontinence so much)
+68 def. of choice
+- choice "arises out of deliberative belief"
+69 process of deliberation
+70 argument connection virtue/vice to pleasure/pain (not directly, obviously; see p. 62)
+- moral virtue = mean; vice = excess or deficiency
+- "vice [...] is concerned with the same matters as virtue"
+78 "virtue implies choice"
+93 justice = complete virtue; because best man is not he who is only virtuous to himself but also to others
+97 justice = proportion
+98 justice = rectification
+105 justice applies to the different and multiple, not the selfsame!
+106 universal vs. particular
+111 contrary to popular belief, acting just is NOT easy: "Men think that acting unjustly is in their power, and therefore that being just is easy. But it is not: to lie with one's neighbour's wife, to strike one's neighbour, to offer a bribe, is easy and in our power, but to do these things from a certain state of character is neither easy nor in our power."
+- ex. easy to bribe, cheat, etc., but not as easy to be just
+- being just requires specific knowledge of "how actions must be done and distributions effected" and is more than just knowing what is good (e.g. health)
+- ex. specific causality of healthy objects
+111-2 unjust (and just) acts require real effort, the kind that builds character: "to act unjustly consists not in doing these things, except coincidentally, but in doing them from a certain state of character, just as to practise medicine and to heal consists not in applying or not applying the knife, in using or not using drugs, but in doing so in a certain way."
+113 no universals, only probability, when it comes to action
+117 calculate = deliberate
+- reason must be true and desire must be correct for choice to be virtuous
+118 action (good and bad) requires both thought and character
+- 5 kinds of knowing: craftsmanship, knowledge, wisdom (phronesis), understanding, intelligence
+119 def. knowledge
+- craft = producing; =/= action
+120 phronesis = good deliberation
+- concerns what can be otherwise
+- production vs. action
+121 "wisdom is a virtue not a craft"
+123 good action = deliberation on universals and particulars
+124 universals and particulars
+- phronesis is same disposition as art of politics
+- phronesis is like a political reason foucsed on the individual alone
+- phronesis directs oneself; justice directs other
+126 correctness in deliberation, NOT belief or knowledge
+- not just WHAT, but HOW
+127 judgement vs. wisdom/phronesis: both concern deliberative problems, but only wisdom issues commands for action (a key diff between ethics and morality!!)
+128 sympathy is a "similar sense" of another and ground of equity
+- in greek, "sense" is part of "sympathy" (as in, similar sense) cf. Schopenhauer
+- universals reached from particulars
+129 raw experience is just as much of a guide to universals as demonstration!
+130 virtue is the aim; wisdom is the means
+- goodness requires a state that involves both wisdom and virtue
+131 "it is impossible to be wise without being good"
+135 "the wise man is a man of action"
+138 particulars, not universals, concern action
+- incontinence is a misapplication of the universal to the particular
+- knowledge takes time and becomes part of us
+143 excess vices are either brutish or diseased
+148 depravity/vice = disease; incontinence = epilepsy (i.e. momentary)
+- virtue/vice encourge/destroy our PURPOSE respectively
+152 habit is like nature, but not identical (both can be changed)
+160 friendship is a kind of "private justice" wholly in our power
+164 three types of friendship basis: utility, virtue, pleasantness
+166 universal and personal good must align; politics forces this alignment for those who don't have it
+167 "the task of every capacity is external; for it is in something different or in oneself *qua* different"
+170 "all have some good in them" (e.g. singers)
+174 good = simple, self-identical, static
+178 only adults can be good/friends to themselves because they have the "power of choice", which children and animals lack
+189 living = knowing
+196 phronesis is not knowledge, but "another kind of cognition"
+202 two kinds of good fortune: divine (consistent) and natural (inconsistent). both lack reason.
+203 combo of all virtues = gentlemanliness
+- the goods that all strive for (honor, riches, bodily virtues, power, good fortune) can be harmful to people without the right "states of character"
+204 gentlemen deserve "riches, high birth, and power" in virtue of their noble character. these things are not noble for most people, who dont have the character to virtuously wield these goods
+- "complete virtue" - deeds done for the sake of virtue itself
+206 ultimate ethical goal: "to perceive the irrational part of the soul, as such, as little as possible"
+</code></pre></div></div>]]></content><author><name>Aristotle</name></author><category term="philosophy" /><category term="ethics" /><category term="aristotle" /><category term="books" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Individuation in Light of Notions of Form and Information</title><link href="https://jake.nabasny.com/memo/2024/Simondon-Individuation/" rel="alternate" type="text/html" title="Individuation in Light of Notions of Form and Information" /><published>2024-07-22T00:00:00+00:00</published><updated>2024-07-22T00:00:00+00:00</updated><id>https://jake.nabasny.com/memo/2024/Simondon-Individuation</id><content type="html" xml:base="https://jake.nabasny.com/memo/2024/Simondon-Individuation/"><![CDATA[<p><img src="https://books.google.co.uk/books/content?id=9mG6zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;imgtk=AFLRE71f96Q4dbmpegSL3VPiEI_gmcGcTl2jKg-C5nkk2eMQYnllYXsy4LDAWr_IFNjxJKHGNPOQY6Nz1BVTL1P-xPgDjOJnU6sxCQwMNoN-Daw-ApxhIRHDNZh4-2zbgH5lJgpgtaSB" alt="cover" /></p>
+
+<h1 id="individuation-in-light-of-notions-of-form-and-information">Individuation in Light of Notions of Form and Information</h1>
+
+<p>by Gilbert Simondon</p>
+
+<h2 id="publishers-summary">Publisher’s Summary</h2>
+<!-- No more than a couple paragraphs summarizing this BOOK -->
+
+<blockquote>
+  <p>A long-awaited translation on the philosophical relation between technology, the individual, and milieu of the living From Democritus’s atomism to Heisenberg’s uncertainty principle, from Aristotle’s reflections on the individual to Husserl’s call for a focused return to things, from the philosophical advent of the Cartesian ego and the Leibnizian monad to Heidegger’s notion of Dasein, the question concerning the constitution of the individual has continued to loom large over the preoccupations of philosophers and scholars of scientific disciplines for thousands of years. Through conceptions in modern scientific areas of research such as thermodynamics, the fabrication of technical objects, gestalt theory, cybernetics, and the dynamic formation at work in the creation of crystals, Gilbert Simondon’s unique multifaceted philosophical and scholarly research will eventually lead to an astounding reevaluation and questioning of the historical methods for posing the very question and notion of the individual. More than fifty years after its original publication in French, this groundbreaking work of philosophical theory is now available in its first complete English language translation.</p>
+</blockquote>
+
+<h2 id="notes">Notes</h2>
+<!-- The main content of my thoughts really -->
+<ul>
+  <li></li>
+</ul>]]></content><author><name>Gilbert Simondon</name></author><category term="science" /><category term="technology" /><category term="philosophy" /><category term="simondon" /><category term="books" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Ethics</title><link href="https://jake.nabasny.com/memo/2024/Spinoza-Ethics/" rel="alternate" type="text/html" title="Ethics" /><published>2024-07-22T00:00:00+00:00</published><updated>2024-07-22T00:00:00+00:00</updated><id>https://jake.nabasny.com/memo/2024/Spinoza-Ethics</id><content type="html" xml:base="https://jake.nabasny.com/memo/2024/Spinoza-Ethics/"><![CDATA[<p><img src="http://books.google.com/books/content?id=YUjuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="cover" /></p>
+
+<h1 id="ethics">Ethics</h1>
+
+<p>by Benedict de Spinoza</p>
+
+<h2 id="publishers-summary">Publisher’s Summary</h2>
+<!-- No more than a couple paragraphs summarizing this BOOK -->
+
+<blockquote>
+  <p>Published shortly after his death, the Ethics is undoubtedly Spinoza’s greatest work - an elegant, fully cohesive philosophical system that strives to provide a coherent picture of reality, and to comprehend the meaning of an ethical life. Following a logical step-by-step format, it defines in turn the nature of God, the mind, the emotions, human bondage to the emotions, and the power of understanding - moving from a consideration of the eternal, to speculate upon humanity’s place in the natural order, the nature of freedom and the path to attainable happiness. A powerful work of elegant simplicity, the Ethics is a brilliantly insightful consideration of the possibility of redemption through intense thought and philosophical reflection.</p>
+</blockquote>
+
+<h2 id="notes">Notes</h2>
+<!-- The main content of my thoughts really -->
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>#### I: God/substance
+2 attributes determine identity
+3 causal relation establishes commonality
+	There is nothing but substances and their affections
+5 modifications do not exist outside intellect
+	Clear and distinct = true
+	Existence/essence of substance is eternal truth
+6 more reality = more attributes
+7 God exists
+8 perfection and existence increase/decrease in unison
+10 only substances and modes exist
+	Body = "any quantity, with length, breadth, and depth, limited by some certain figure"
+15 essence vs. existence
+16 God is immanent cause of all things
+19 particular things are just affections/modes of God's attributes
+	Modes are nothing but affections of God's attributes
+20 remote causes
+	Natura naturata (passive nature) vs. natura naturans (active nature)
+21 intellect is a mode of thinking (differing from desire, love, etc.)
+	Will is a mode of thought, and is not free
+	"we can understand nothing that does not lead to more perfect knowledge of the intellection"
+22 God doesn't "create" anything (anti-Creationism)
+	Necessary vs. impossible
+23 contingency is a defect of knowledge
+	Ascribing freedom to God is a "great obstacle of science"
+	God could never decree anything different
+25 summary of God's properties
+27 mathematics allows humanity to attain divine knowledge
+	"All final causes are nothing but human fictions"
+29 "the will of god, that is, the sanctuary of ignorance" (contra intelligent design)
+29-30 human values determined by what is most pleasing to us
+30 good/evil judgments are based on human preferences (via imagination)
+	People also like to imagine that God likes/establishes harmony
+	The imagination is the source of all this error, and distracts from the actual nature of things
+31 for the majority of people, perfection = what is most pleasurable/useful
+
+#### II: human mind and body
+31 body is conceived in a "certain and determinate way"
+32 ideas are concepts, not precepts
+	Adequate vs. true
+	Collective agency
+34 God's power must not be confused with human power or right of kings
+	Ideas not caused by object or perception, but by God
+35 necessary path of implication: attribute of thought -&gt; ideas -&gt; objects
+	Immanence of the "order and connection" of ideas and things
+	Thought and extension are "one and the same substance" explained through different attributes (monism)
+	Ideas must be explained through thought alone; things through extension alone
+36 EMERGENT PROPERTIES
+37 causal chain always leads back to God
+38 first priority of philosophy: investigate God
+	First constitutive element of a human mind is an idea
+39 the object of this constitutive idea is the human body (both of which exist in God)
+40 human exists with both mind and body, which are united
+41-3 physical doctrine of bodies
+	Bodies differentiated by speed and slowness
+	Simple vs. composite bodies
+	Speed is more important to identity than substance or parts
+	Nature can be thought of as a single individual composed of many parts
+44 postulates of the human body
+	V: skin and memory, inscription
+	The mind perceives everything that happens in the body
+	Atomism of ideas (each idea composed of partial ideas)
+45 causality requires similar nature
+	Correlationism: ideas of external bodies indicate our own body more than anything outside of it (and reference to Appendix I)
+	Memory
+	Habit, leads to error
+46 definitions of image and imagine
+	Imagination does not always lead to error
+	Relation between imagination and habit (in producing error)
+	Definition of memory
+47 two orders of connection: affections vs. ideas
+	Linguistic arbitrariness of the sign thesis
+	Relativity of imagination leads to different habits and associations
+	Ex. Farmer vs. soldier
+	Mind does not know body exists, only knows its affections
+48 order and connection of ideas same as for causes (monism)
+	Idea of idea: ideas are nested in each other
+49 mind perceives affections of body and ideas of these affections
+	Mind does not know itself, except through ideas of bodily affections
+50 external bodies determine the human body in a certain way (as in structuralist differential signification?)
+	Correlationism; External reality is imaginary
+51 ideas of affections are confused ideas ("conclusions without premises")
+	Ideas arrived at through the body lead to a "mutilated and confused" knowledge
+52 internal ("agreements, differences, and oppositions") vs. external (ideas of affections) knowledge
+53 free will theory based on ignorance of the cause of one's actions
+54 inadequate ideas follow with same necessity as adequate ones
+	Things that are common to all must be conceived adequately
+56 confused origin of TRANSCENDENTALS and UNIVERSALS (via imagination)
+	Even these notions are relative to an individual's experience
+57 FOUR LEVELS OF KNOWLEDGE: random experience, opinion or imagination, reason, intuition
+58 "true idea involves the highest certainty"; truth is the standard of itself (59)
+59-60 time is imaginary
+60 modes involve the concept of their attribute (i.e. you can always trace the cause from the effect)
+62 no free will
+	No absolute faculties (any distinction among mental faculties are "complete fictions")
+	Reference to Appendix I
+	Definition of will: affirming to denying something. ("Not the desire by which the mind wants a thing or avoids it")
+63 definition of idea: a concept of thought, not an image
+	The will is the intellect
+64 goal of this doctrine is to be able to "arrange one's life wisely," and to speculate
+	Ideas involve affirmation or negation
+	Word and images are merely "corporeal motions," not concepts of thought
+66 perception is not indifferent
+67 not sure how highly we should esteem suicides, children, fools, and madmen
+67-8 ethical and social benefits of the doctrine (foreshadowing of final chapter)
+
+#### III: emotional psychology, or the affects
+69 nature has no defect
+	Affects (emotions) are part of nature and work by the same necessity
+	Human actions and appetites must be analyzed like "planes, lines, and bodies"
+70 definition of affect: increase/decrease in power of acting (or idea of this power)
+	Affect is either action or passion
+	Body retains "traces" of objects
+	By having adequate ideas, the mind also "acts"
+71 more inadequate ideas correlate to more passions; more adequate ideas to more actions
+	Monism
+72 body operates partly autonomously from mind
+	Ex. Animals, sleepwalkers
+73 infant, angry child, timid, drunk, madman, chatterbox, child
+	Decision and determination are really the same
+	Decision requires recollection/memory
+74 free decisions are imaginary; those who believe in them "dream with open eyes"
+75 no self-destruction
+	CONATUS Principle: each thing strives to preserve in its being
+	This striving = actual essence of thing
+76 will vs. appetite: will is striving of the mind; appetite is striving of mind and body, thus the "very essence of man"
+	Appetite = desire
+	Definition of desire: "Appetite together with the consciousness of the appetite"
+	"we neither strive for, nor will, neither want, nor desire anything because we judge it to be good; on the contrary, we judge something to be good because we strive for it, will it, want it, and desire it."
+77 joy (passing to greater perfection) vs. sadness (passing to lesser perfection)
+	These are both passions, also can be called pleasure/pain, cheerfulness/melancholy
+	Three primary affects: joy, sadness, desire
+	Mind strives to imagine what increases its power
+78  imagination leads to affects in the body
+	Love vs. hate (both related to an external cause)
+	Habit/imagination can lead to imaginary/ghostly affections: felt, but not really existing
+	Imagination of the mind indicates affects of the body more than existence of external objects
+80 vacillation of mind: experience of contrary affects
+81 hope, fear, confidence, despair, gladness, remorse
+82 pity, favor, indignation
+83 pride: "a species of madness" where "the man dreams, with open eyes"
+84 overestimation, scorn, imitation/emulation
+	We strive to free from suffering things we pity
+85 benevolence, ambition, human kindness, praise, blame
+86 love of esteem, shame, self-esteem, repentance
+	Agreement with others empowers our preferences or dislikes
+87 desire to have similar preferences as others
+	The same nature that makes men compassionate also makes them envious/ambitious
+	Children are proof of this entire emotional psychology
+89 longing
+91 affect is origin of judgement (cf. 76)
+	Timidity, sense of shame, consternation
+92 anger, vengeance, reciprocal love, thankfulness/gratitude, cruelty
+93 "hate…can be destroyed by love"
+94 class hatred and racism (just part of our nature) [EUGENIC LOGIC!]
+95 love for free things &gt; love of necessary things; so, men love each other more than things
+	Good/bad omens
+96 principle of difference (all affects and people are different)
+	There are as many judgements as affects
+	Intrepid, daring, timid, cowardly
+97 repentance and self-esteem can be very "violent"
+	Wonder, veneration, consternation, dread, devotion, disdain
+98 mockery, contempt
+	The mind empowers itself as it more distinctly conceives of and rejoices in its power
+	Mind strives to only imagine empowering things
+	Humility, self-love, self-esteem (onto 99)
+99 inherent competition: natural inclination to hate and envy
+	Education bolsters competition, since parents teach children to value honor/envy
+	Virtue = power of acting
+100 every object produces its affect in a different way (as many species of sadness or whatever as there are objects)
+	And just as many species of desire
+	Gluttony, drunkenness, lust, greed, ambition: not affects or passions, since they have no opposite
+101 "desire is the very nature, or essence, of each [individual]"
+	Joy and sadness are markers of the increasing or decreasing of desire/appetite (either toward greater or lesser perfection)
+102 for each species, their own affects 
+	Exs. : horse, insects, etc. ; gladness of a drunk vs. of a philosopher
+	All of the past discussion concerned passions, the rest concerns actions
+103 moderation, sobriety, presence of mind in danger, courtesy, mercy
+	Our contingent fortune makes us feel like we are lost at sea (Stoic metaphor!)
+	Enjoyment leads to a new constitution
+	Ex. Food and drink, leading to disgust, weariness
+104 "appetite is the very essence of man, insofar as it is determined to do what promotes his preservation"
+	Joy/sadness is necessarily a PASSAGE
+105 primitive or primary affects: joy, sadness, desire
+107 pity = compassion
+108  right and wrong
+	Developmental psychology, children, education
+	Relativity of experience/values based on education
+109 those we believe to be most humble are usually most envious 
+111 cruelty opposed to mercy
+	Ambition is always present in desire
+112 full definition of affect
+
+#### IV: Bondage/power of affects
+113 def. of bondage: fortune &gt; autonomy
+114 changing definition of perfection
+	Universals complicit in relative perfection
+	Appendix I
+	Final cause = human appetite
+115 humanity conscious of appetite but not its cause (cf. Schopenhauer's principle of will)
+	Reality = perfection
+	Appendix I
+	Good and evil only modes of thinking
+	Definition of Good and Evil
+116 Beings change according to perfection ("passage"), not essence
+117 virtue = power = essence of man
+118 human perseverance to exist is limited
+119 "the affect stubbornly clings to the man"
+120 power struggle of the affects (immanent forces)
+	Good and evil = affects (of joy and sadness)
+121 Good/evil only conceptually distinct from affect
+	Time limits affective force (more present = stronger)
+123 truth can't influence affect except as an affect itself (affect &gt; knowledge)
+124 goal of investigating reason is determining limits of action
+125 dictates of reason
+	Virtue = acting from natural laws
+	Foundation of virtue = self-preservation
+	Virtue is its own reward
+	Prohibition of suicide (since contrary to foundation)
+	We can never live without dealing with things outside us
+126 self-interest is just, honorable, and basis of morality
+126-7 only external causes lead one away from self-preservation
+	Suicide is the result of external causes dominating
+127 "striving to preserve oneself is the first and only foundation of virtue"
+128 acting = living = preserving our being
+	Only what leads to understanding is useful
+129 mind's greatest virtue = to know God
+130 a thing is good if it agrees with our nature
+131 man is changeable
+133 man who helps himself also helps others
+	Virtuous action is rational action
+134 definition of morality (and honor)
+	Friendship
+135 contra animal rights
+	We can use animals as we please
+</code></pre></div></div>]]></content><author><name>Benedict de Spinoza</name></author><category term="philosophy" /><category term="ethics" /><category term="books" /><category term="spinoza" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">a post with code</title><link href="https://jake.nabasny.com/memo/2015/test/" rel="alternate" type="text/html" title="a post with code" /><published>2015-07-15T15:09:00+00:00</published><updated>2015-07-15T15:09:00+00:00</updated><id>https://jake.nabasny.com/memo/2015/test</id><content type="html" xml:base="https://jake.nabasny.com/memo/2015/test/"><![CDATA[<p>This theme implements a built-in Jekyll feature, the use of Rouge, for syntax highlighting.
+It supports more than 100 languages.
+This example is in C++.
+All you have to do is wrap your code in markdown code tags:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">c++
+</span><span class="n">code</span> <span class="n">code</span> <span class="n">code</span>
+<span class="p">```</span>
+</code></pre></div></div>
+
+<div class="language-c++ highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="k">const</span> <span class="err">\</span><span class="o">*</span><span class="n">argv</span><span class="p">[])</span>
+<span class="p">{</span>
+    <span class="n">string</span> <span class="n">myString</span><span class="p">;</span>
+
+    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"input a string: "</span><span class="p">;</span>
+    <span class="n">getline</span><span class="p">(</span><span class="n">cin</span><span class="p">,</span> <span class="n">myString</span><span class="p">);</span>
+    <span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="n">myString</span><span class="p">.</span><span class="n">length</span><span class="p">();</span>
+
+    <span class="kt">char</span> <span class="n">charArray</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">char</span> <span class="o">*</span> <span class="p">[</span><span class="n">length</span><span class="p">];</span>
+
+    <span class="n">charArray</span> <span class="o">=</span> <span class="n">myString</span><span class="p">;</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">){</span>
+        <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">charArray</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;&lt;</span> <span class="s">" "</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p>For displaying code in a list item, you have to be aware of the indentation, as stated in this <a href="https://stackoverflow.com/questions/34987908/embed-a-code-block-in-a-list-item-with-proper-indentation-in-kramdown/38090598#38090598">Stackoverflow answer</a>. You must indent your code by <strong>(3 * bullet_indent_level)</strong> spaces. This is because kramdown (the markdown engine used by Jekyll) indentation for the code block in lists is determined by the column number of the first non-space character after the list item marker. For example:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">1.</span> We can put fenced code blocks inside nested bullets, too.
+<span class="p">
+   1.</span> Like this:<span class="sb">
+
+      ```c
+      printf("Hello, World!");
+      ```
+
+</span><span class="p">   2.</span> The key is to indent your fenced block in the same line as the first character of the line.
+</code></pre></div></div>
+
+<p>Which displays:</p>
+
+<ol>
+  <li>
+    <p>We can put fenced code blocks inside nested bullets, too.</p>
+
+    <ol>
+      <li>
+        <p>Like this:</p>
+
+        <div class="language-c highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">printf</span><span class="p">(</span><span class="s">"Hello, World!"</span><span class="p">);</span>
+</code></pre></div>        </div>
+      </li>
+      <li>
+        <p>The key is to indent your fenced block in the same line as the first character of the line.</p>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<p>By default, it does not display line numbers. If you want to display line numbers for every code block, you can set <code class="language-plaintext highlighter-rouge">kramdown.syntax_highlighter_opts.block.line_numbers</code> to true in your <code class="language-plaintext highlighter-rouge">_config.yml</code> file.</p>
+
+<p>If you want to display line numbers for a specific code block, all you have to do is wrap your code in a liquid tag:</p>
+
+<p>{% highlight c++ linenos %} <br /> code code code <br /> {% endhighlight %}</p>
+
+<p>The keyword <code class="language-plaintext highlighter-rouge">linenos</code> triggers display of line numbers.
+Produces something like this:</p>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+</pre></td><td class="code"><pre><span class="kt">int</span> <span class="nf">main</span><span class="p">(</span><span class="kt">int</span> <span class="n">argc</span><span class="p">,</span> <span class="kt">char</span> <span class="k">const</span> <span class="err">\</span><span class="o">*</span><span class="n">argv</span><span class="p">[])</span>
+<span class="p">{</span>
+<span class="n">string</span> <span class="n">myString</span><span class="p">;</span>
+
+    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"input a string: "</span><span class="p">;</span>
+    <span class="n">getline</span><span class="p">(</span><span class="n">cin</span><span class="p">,</span> <span class="n">myString</span><span class="p">);</span>
+    <span class="kt">int</span> <span class="n">length</span> <span class="o">=</span> <span class="n">myString</span><span class="p">.</span><span class="n">length</span><span class="p">();</span>
+
+    <span class="kt">char</span> <span class="n">charArray</span> <span class="o">=</span> <span class="k">new</span> <span class="kt">char</span> <span class="o">*</span> <span class="p">[</span><span class="n">length</span><span class="p">];</span>
+
+    <span class="n">charArray</span> <span class="o">=</span> <span class="n">myString</span><span class="p">;</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">length</span><span class="p">;</span> <span class="o">++</span><span class="n">i</span><span class="p">){</span>
+        <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">charArray</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&lt;&lt;</span> <span class="s">" "</span><span class="p">;</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+
+<span class="p">}</span>
+</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><category term="math" /><category term="science" /><category term="math" /><category term="blockquotes" /><summary type="html"><![CDATA[an example of a blog post with some code]]></summary></entry></feed>
